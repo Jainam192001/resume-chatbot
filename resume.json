@@ -1,0 +1,28 @@
+{
+  "name": "Jainam Patel",
+  "title": "Business Analyst Co-op at Hydro One | M.Eng in Systems & Technology",
+  "skills": [
+    "Python",
+    "Power BI",
+    "SQL",
+    "Azure",
+    "Cybersecurity",
+    "Machine Learning"
+  ],
+  "experience": [
+    {
+      "role": "Business Analyst Co-op",
+      "company": "Hydro One",
+      "duration": "Jan 2025 - Aug 2025",
+      "summary": "Automated vulnerability reporting, built dashboards, deployed PowerShell scripts."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Engineering",
+      "university": "McMaster University",
+      "field": "Systems and Technology",
+      "grad_year": 2025
+    }
+  ]
+}
